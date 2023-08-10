@@ -2,7 +2,7 @@ Welcome to our GitHub repository for the CryptStego Web Platform!
 
 ## CryptStego: Enhancing Data Security Through Cryptography and Steganography
 
-CryptStego is an innovative web application developed using Python and powered by Flask, a microservice-based framework. Our project showcases a powerful blend of cryptography and steganography, offering a robust solution for securing sensitive data across unsecured networks.
+CryptStego is an innovative web application developed using Python and powered by Flask, a microservice-based framework. The project showcases a powerful blend of cryptography and steganography, offering a robust solution for securing sensitive data across unsecured networks.
 
 ### Key Features:
 
