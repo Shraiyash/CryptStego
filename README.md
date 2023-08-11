@@ -16,10 +16,12 @@ In an increasingly interconnected world, the need for data security has never be
 
 ### Installation Guide:
 
-1. Clone the repository using `git clone https://github.com/Shraiyash/CryptStego`.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the application using `python app.py`.
-4. Access the platform through your web browser at `http://127.0.0.1:5000/`.
+1. Make directory Project using `mdkir Project`.
+2. Move into the directory using `cd Project`.
+3. Clone the repository using `git clone https://github.com/Shraiyash/CryptStego`.
+4. Install the required dependencies using `pip install -r requirements.txt`.
+5. Run the application using `python app.py`.
+6. Access the platform through your web browser at `http://127.0.0.1:5000/`.
 
 ### Contribution:
 
